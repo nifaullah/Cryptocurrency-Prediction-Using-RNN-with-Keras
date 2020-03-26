@@ -1,7 +1,5 @@
-# Cryptocurrency-Prediction-Using-RNN-with-Keras
-In this exercise/project I am trying to predict if the value of a cryptocurrency will  increase / decrease in next 3 minutes based on the previous 60 minutes of data
-
 # Crytocurrency Prediction using Recurrent Neural Network (RNN)
+In this exercise/project I am trying to predict if the value of a cryptocurrency will  increase / decrease in next 3 minutes based on the previous 60 minutes of data
 
 **Goal:** 
 1. Understand how RNN works for sequence data (i.e time series data in this case)
