@@ -16,9 +16,11 @@ In this excercise/project I am trying to reproduce the Cryptocurrency Prediction
 <b>*</b>Although the code for the excercise is readily available, but I  have taken only the approach from the excercise and tried to code the whole excercise as per my understanding *(ofcourse there're some parts which will be similar due to the similarity of the operations but majorly this is an independent implementation accounting for some new upgrades and developments since the work was published.)*
 
 **Results:**
+
 In terms of train & validation accuracy, traditionally 50-60 % accuracy is a very subpar performance, but as per Harrison Kinsley this is good performance given the context of having to predict if the currency will go up or down in next 3 minutes based on previous 60 minutes worth of data. With this excercise I can now not only draw out the implementation in paper but also imagine the flow of data much quickly, all in all this was a good excercise to grasp how RNN implementation works with keras.
 
 **Future Works:**
+
 I believe one can further increase the accuracy by appropriately adjusting the model but even with the adjustments I don't believe the accuracy is going to shot up substantially but with increased data the results might be different.
 
 **Citations/Acknowledgements:**
