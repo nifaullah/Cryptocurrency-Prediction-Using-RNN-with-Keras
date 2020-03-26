@@ -24,5 +24,5 @@ I believe one can further increase the accuracy by appropriately adjusting the m
 **Citations/Acknowledgements:**
 
 1. This is a reproduction of <a href="https://pythonprogramming.net/cryptocurrency-recurrent-neural-network-deep-learning-python-tensorflow-keras/">Crypotocurrency prediction with RNN, Deep Learning, Python, Tensorflow, and, Keras</a>  work  from  <a href="https://pythonprogramming.net"> Python Programming Tutorial </a>
-2. This analysis or model building was done using <a href="https://colab.research.google.com/notebooks/intro.ipynb">Google Colab </a>
+2. This analysis or model building was done using <a href="https://colab.research.google.com/notebooks/intro.ipynb">Google Colab </a> and some outputs go missing when converted to localised ipynb, but can be still viewed in colab environment.
 3. <a href="https://medium.com/@oribarel/getting-the-most-out-of-your-google-colab-2b0585f82403">Medium Post</a> on Google Colab By Ori Bar-El 
